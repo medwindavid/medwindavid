@@ -1,4 +1,4 @@
- a Data Analyst and Engineer with over 4 years of experience in analyzing complex datasets, building data pipelines, and delivering actionable insights.
+
 
 
 ## 🌐 Socials:
